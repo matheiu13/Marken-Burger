@@ -1,0 +1,29 @@
+.navbar {
+	position: sticky;
+	width: 100%;
+}
+
+.company-description{
+	font-size:27px;
+	
+}
+
+
+@media (max-width: 992px) {.company-description{
+	font-size:27px;
+
+}}
+
+@media (max-width: 768px) {.company-description{
+	font-size:27px;
+
+}}
+
+@media (max-width: 576px) {.company-description{
+	font-size:27px;
+
+}}
+
+.row{
+	padding-left:0px !important;
+}
